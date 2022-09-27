@@ -5,7 +5,7 @@ import contract from './contracts/abi.json';
 import { ethers } from 'ethers';
 
 
-const contractAddress = "0x26652468Ad6Cbaac2F78be6e480f4F820C0bAb8E";
+const contractAddress = "0x3AF900DA1a50203EE7FEFe12ebcDc19432cb4005";
 const abi = contract;
 
 
